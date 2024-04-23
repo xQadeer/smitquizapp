@@ -1,0 +1,30 @@
+body{ 
+    height: 100vh ;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background:  #96f3ee;
+ 
+}
+.containerf{
+    position: relative;
+    height: 60vh;
+  max-width: 430px;
+  width: 100%;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin: 0 20px;
+}
+.containerf .forms {
+    display: flex;
+    align-items: center;
+    height: 440px;
+    width: 200%;
+    transition: height 0.2s ease;
+    
+   
+  }
+ 
+ 
